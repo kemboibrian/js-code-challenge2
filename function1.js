@@ -1,3 +1,5 @@
+ //swapCase functin that accepts a string as input and swaps the  case in each character
+
 function swapCase(string) {
     return string.split('').map(char => {
      if (char === char.toUpperCase()) {
