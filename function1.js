@@ -1,5 +1,5 @@
-function swapCase(str) {
-    return str.split('').map(char => {
+function swapCase(string) {
+    return string.split('').map(char => {
      if (char === char.toUpperCase()) {
          return char.toLowerCase()
          
@@ -11,7 +11,7 @@ function swapCase(str) {
     ).join('') // joins the elements after swapping
      
  }
- swapCase('str') // call function to check the string
+ swapCase('string') // call function to check the string
  //console.log(swapCase('')); // tests the function to provide the correct output 
  // in this case
  console.log(swapCase('The Quick Brown Fox')); // should output 'tHE qUICK bROWN fOX'
