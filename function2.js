@@ -1,4 +1,4 @@
-//array generator that accepts two fucntions
+//array generator that accepts two numbers and generates array between them
 
 function arrayRange(start, end) {
     let direction; 
