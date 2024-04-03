@@ -22,5 +22,5 @@ function getPrimeNumbers(arr) {
 // Example usage
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const primeNumbers = getPrimeNumbers(numbers);
-console.log(primeNumbers); // should Output: [2, 3, 5, 7]
+console.log(primeNumbers); // should Output [2, 3, 5, 7]
     
