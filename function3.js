@@ -16,7 +16,7 @@ primeNum() // call function to che if a number is a prime number
 
 // Function to filter out prime numbers from an array
 function getPrimeNumbers(arr) {
-    return arr.filter(num => isPrime(num));
+    return arr.filter(num => PrimeNum(num));
 }
 
 // Example usage
