@@ -14,38 +14,23 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
-```
-Git clone git@github.com:kemboibrian/js-code-challenge2.git
+Git clone git@github.com:kemboibrian/js-code-challenge.git
 
+### Installation instruction
+```
+Git clone git@github.com:kemboibrian/js-code-challenge.git
+```
 
 # Live Link
-https://github.com/kemboibrian/js-code-challenge2
+[Git](https://github.com/kemboibrian/js-code-challenge/blob/main/README.md)
 
 ## Technologies used
-Github
 Javascript
+Github
 
 ## Support and contact details
-https://github.com/kemboibrian/js-code-challenge2
+github.com/kemboibrian
+
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2024 kemboibrian
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
