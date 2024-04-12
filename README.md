@@ -18,7 +18,7 @@ Git clone git@github.com:kemboibrian/js-code-challenge.git
 
 
 # Live Link
-[Git](https://github.com/kemboibrian/js-code-challenge/blob/main/README.md)
+[Git](https://github.com/kemboibrian/js-code-challenge2)
 
 ## Technologies used
 Javascript
