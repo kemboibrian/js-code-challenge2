@@ -5,7 +5,7 @@
 #### By *Brian Kemboi*
 
 ## Description
-This is a javaScript solution for my week 2 code challenge.
+This is a javaScript solution for my week 2 code challenge which is an application, Flatadango, that allows a user to purchase movie tickets from the theater.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
