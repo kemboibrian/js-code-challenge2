@@ -16,10 +16,6 @@ Git
 ### Installation instruction
 Git clone git@github.com:kemboibrian/js-code-challenge.git
 
-### Installation instruction
-```
-Git clone git@github.com:kemboibrian/js-code-challenge.git
-```
 
 # Live Link
 [Git](https://github.com/kemboibrian/js-code-challenge/blob/main/README.md)
